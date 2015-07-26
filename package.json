@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaegerpicker/legoPlayground/issues"
   },
-  "homepage": "https://github.com/jaegerpicker/legoPlayground"
+  "homepage": "https://github.com/jaegerpicker/legoPlayground",
+  "dependencies": {
+    "node-nxt": "0.0.1"
+  }
 }
