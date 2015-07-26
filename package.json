@@ -1,0 +1,19 @@
+{
+  "name": "legoPlayground",
+  "version": "1.0.0",
+  "description": "nxt lego mindstorm hacking",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jaegerpicker/legoPlayground.git"
+  },
+  "author": "jaegerpicker@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaegerpicker/legoPlayground/issues"
+  },
+  "homepage": "https://github.com/jaegerpicker/legoPlayground"
+}
